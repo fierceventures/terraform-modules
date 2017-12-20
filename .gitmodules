@@ -10,3 +10,6 @@
 [submodule "terraform-vpc"]
 	path = terraform-vpc
 	url = https://github.com/fierceventures/terraform-vpc
+[submodule "terraform-bastion"]
+	path = terraform-bastion
+	url = https://github.com/fierceventures/terraform-bastion.git
