@@ -1,0 +1,12 @@
+[submodule "terraform-public-subnet"]
+	path = terraform-public-subnet
+	url = https://github.com/fierceventures/terraform-public-subnet.git
+[submodule "terraform-private-subnet"]
+	path = terraform-private-subnet
+	url = https://github.com/fierceventures/terraform-private-subnet
+[submodule "terraform-nat-gateway"]
+	path = terraform-nat-gateway
+	url = https://github.com/fierceventures/terraform-nat-gateway
+[submodule "terraform-vpc"]
+	path = terraform-vpc
+	url = https://github.com/fierceventures/terraform-vpc
