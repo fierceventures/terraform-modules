@@ -13,3 +13,9 @@
 [submodule "terraform-bastion"]
 	path = terraform-bastion
 	url = https://github.com/fierceventures/terraform-bastion.git
+[submodule "terraform-elastic-beanstalk-java"]
+	path = terraform-elastic-beanstalk-java
+	url = https://github.com/fierceventures/terraform-elastic-beanstalk-java.git
+[submodule "terraform-datomic"]
+	path = terraform-datomic
+	url = https://github.com/fierceventures/terraform-datomic.git
